@@ -1,6 +1,7 @@
 body {
 	font-family: quicksand,sans-serif;
-	background-image: url(images/pidgeon-background.jpg) #dddddd;
+	background-color: #dddddd;
+	background-image: url(../images/pidgeon-background.jpg);
 	background-repeat: no-repeat;
 	font-size: 18px;
 	margin: 1.2em;
@@ -94,4 +95,3 @@ footer {
 	color: white;
 	text-align: center;
 }
-
